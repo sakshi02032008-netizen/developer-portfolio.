@@ -3,7 +3,7 @@ About Me
 B.Tech CSE Student at K.R. Mangalam University, Gurugram
 Batch: 2026-2030
 Currently learning Python, Linux, Git and GitHub.
-Interested in: Cybersecurity / AI-ML / Web Development.
+Interested in: Full-stack / AI-ML / Web Development / Cybersecurity.
 Technical Skills
 Category	Technologies
 Languages	Python, Bash
